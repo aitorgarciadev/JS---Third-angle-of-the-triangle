@@ -1,0 +1,12 @@
+{
+  "name": "js---third-angle-of-the-triangle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calcularTercerAngulo.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC"
+}
